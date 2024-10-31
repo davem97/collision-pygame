@@ -1,4 +1,6 @@
 # collision-pygame
 Intermediate game made using pygame
 
-![Logo](Collision!%20Game/Images/collision_logo.png)
+<p align="center">
+  <img src="Collision!%20Game/Images/collision_logo.png" alt="Logo">
+</p>
